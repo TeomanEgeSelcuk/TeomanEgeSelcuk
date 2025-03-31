@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi! I'm a Software Engineer specializing in data-driven solutions and automation. Currently, I'm developing a Job Application program integrating with LinkedIn, Zip Recruiter, Indeed, and Glassdoor, using Python, SQL, and Excel. I'm also exploring Langchain LLMs for automated Cover Letters, Resumes, and email analysis. I'm open to collaborating on Data Analyst projects, LLM projects, SQL, Excel, Tableau, and POWERBI. Seeking assistance with troubleshooting complex datasets in financial and environmental economics. Currently learning LLM API integrations, advanced Data Analysis, and gaining proficiency in POWERBI and Tableau. Ask me about Docker, Python, or trading algorithm development
+Hi! I’m a Software Engineer specializing in full-stack development with expertise in data-driven solutions, automation, and LLM integrations. Currently, I’m exploring LangChain LLMs to automate Cover Letters, Resumes, and email analysis, while building proficiency in Docker, API integrations, and advanced Python frameworks. Open to collaborating on LLM projects, data analysis (financial/environmental economics), or visualization tools using Tableau/POWERBI. Seeking guidance on scaling data engineering pipelines, trading algorithms, or AI-driven application development.
 
 ## 🌐 Socials:
 
